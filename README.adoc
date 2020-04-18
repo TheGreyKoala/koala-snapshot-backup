@@ -1,4 +1,4 @@
-= Koala Backup
+= Koala Snapshot Backup
 
 Backup service based on the snapshot-style backups described in http://www.mikerubel.org/computers/rsync_snapshots/.
 Creates an infinite number of snapshots.

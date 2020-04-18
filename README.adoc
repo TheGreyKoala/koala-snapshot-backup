@@ -1,0 +1,6 @@
+= Koala Backup
+
+Backup service based on the snapshot-style backups described in http://www.mikerubel.org/computers/rsync_snapshots/.
+Creates an infinite number of snapshots.
+
+IMPORTANT: The script contains some hard coded paths. Also, email notifications need to be configured in the script by replacing some placeholders.
